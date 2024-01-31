@@ -1,0 +1,12 @@
+stationTriplet VARCHAR
+elementCode VARCHAR
+ordinal VARCHAR
+heightDepth VARCHAR
+durationName VARCHAR
+dataPrecision VARCHAR
+storedUnitCode VARCHAR
+originalUnitCode VARCHAR
+beginDate VARCHAR
+endDate VARCHAR
+value_date VARCHAR
+value VARCHAR

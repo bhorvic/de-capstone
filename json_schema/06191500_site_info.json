@@ -1,0 +1,52 @@
+[
+    {
+      "Name": "agency_cd",
+      "Type": "string",
+      "Comment": ""
+    },
+    {
+      "Name": "site_no",
+      "Type": "bigint",
+      "Comment": ""
+    },
+    {
+      "Name": "station_nm",
+      "Type": "string",
+      "Comment": ""
+    },
+    {
+      "Name": "site_tp_cd",
+      "Type": "string",
+      "Comment": ""
+    },
+    {
+      "Name": "lat_va",
+      "Type": "double",
+      "Comment": ""
+    },
+    {
+      "Name": "long_va",
+      "Type": "double",
+      "Comment": ""
+    },
+    {
+      "Name": "district_cd",
+      "Type": "bigint",
+      "Comment": ""
+    },
+    {
+      "Name": "state_cd",
+      "Type": "bigint",
+      "Comment": ""
+    },
+    {
+      "Name": "county_cd",
+      "Type": "bigint",
+      "Comment": ""
+    },
+    {
+      "Name": "country_cd",
+      "Type": "string",
+      "Comment": ""
+    }
+  ]

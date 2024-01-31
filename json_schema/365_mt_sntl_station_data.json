@@ -1,0 +1,32 @@
+[
+    {
+      "Name": "stationtriplet",
+      "Type": "string",
+      "Comment": ""
+    },
+    {
+      "Name": "elementcode",
+      "Type": "string",
+      "Comment": ""
+    },
+    {
+      "Name": "durationname",
+      "Type": "string",
+      "Comment": ""
+    },
+    {
+      "Name": "storedunitcode",
+      "Type": "string",
+      "Comment": ""
+    },
+    {
+      "Name": "value_date",
+      "Type": "string",
+      "Comment": ""
+    },
+    {
+      "Name": "value",
+      "Type": "double",
+      "Comment": ""
+    }
+  ]

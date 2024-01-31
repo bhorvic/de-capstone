@@ -1,0 +1,17 @@
+[
+    {
+      "Name": "instantaneous_flow_cfs",
+      "Type": "double",
+      "Comment": ""
+    },
+    {
+      "Name": "data_status",
+      "Type": "string",
+      "Comment": ""
+    },
+    {
+      "Name": "site_no",
+      "Type": "string",
+      "Comment": ""
+    }
+  ]
