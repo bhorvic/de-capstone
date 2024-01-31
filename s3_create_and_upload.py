@@ -7,10 +7,10 @@ import os
 from botocore.exceptions import ClientError
 from datetime import datetime
 from config import S3_BUCKET_NAME, DIRECTORY
-from botonwis import nwis_directory
 import config
 
 # Declare your variables
+nwis_directory = os.path.join(DIRECTORY, 'output')
 s3 = boto3.resource('s3') # <-- Do not alter this variable.
 bucket_name = S3_BUCKET_NAME
 directory = DIRECTORY
