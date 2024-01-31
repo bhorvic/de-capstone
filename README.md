@@ -7,8 +7,8 @@ Data Collection:
 
 Utilizes the USGS streamflow and SNOTEL REST APIs to fetch data in JSON format.
 Converts the JSON files to CSV for easier handling and analysis.
-Storage:
 
+Storage:
 Stores the converted CSV files locally for quick access.
 
 AWS S3 Integration:
