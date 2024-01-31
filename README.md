@@ -1,4 +1,5 @@
-Overview
+A more in-depth summary of the project can be found in the usda_analytics.ipynb file 
+
 This project is designed to collect USGS streamflow and SNOTEL data through their respective REST APIs. The collected data, initially in JSON format, is then converted to CSV files and stored in a local directory. Subsequently, the CSV files are loaded into an AWS S3 bucket using the boto3 Python library.
 
 Workflow
