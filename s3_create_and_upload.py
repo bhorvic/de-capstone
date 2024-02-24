@@ -14,7 +14,7 @@ nwis_directory = os.path.join(DIRECTORY, 'output')
 s3 = boto3.resource('s3') # <-- Do not alter this variable.
 bucket_name = S3_BUCKET_NAME
 directory = DIRECTORY
-files = os.listdir(directory) # <-- Do not alter this variable.
+# files = os.listdir() # <-- Do not alter this variable.
 region = 'us-west-2'
 
 # Define the function to create a bucket
